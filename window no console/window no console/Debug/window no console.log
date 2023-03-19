@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\asus\source\repos\window no console\window no console\main.cpp(59,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  window no console.vcxproj -> C:\Users\asus\source\repos\window no console\Debug\window no console.exe
